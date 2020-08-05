@@ -1,0 +1,6 @@
+.UserInput{
+    border : 1px dotted black;
+}
+.UserInput>input{
+    font-size: xx-large;
+}
